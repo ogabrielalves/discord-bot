@@ -1,0 +1,24 @@
+{
+  "dependencies": {
+    "discord.js": "^14.10.2",
+    "dotenv": "^16.0.3"
+  },
+  "name": "discord-bot",
+  "description": "Bot de estudos para programacao",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Gabriel Alves",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ogabrielalves/discord-bot.git"
+  },
+  "bugs": {
+    "url": "https://github.com/ogabrielalves/discord-bot/issues"
+  },
+  "homepage": "https://github.com/ogabrielalves/discord-bot#readme"
+}
